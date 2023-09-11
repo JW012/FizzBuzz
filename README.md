@@ -13,20 +13,22 @@ Click this button to create a fork of this repository, which will be your own co
 In the new page that comes up, confirm that you want to create the fork and your own FizzBuzz repository will be created
 on GitHub!
 
-2. Now that you have your own fork of this repository, close this page, go to your fork, and continue with the next instructions.
+1.5: Awesome!
 
-3. The next step is to get a local copy of your FizzBuzz repository on your own computer.
+3. Now that you have your own fork of this repository, close this page, go to your fork, and continue with the next instructions.
+
+4. The next step is to get a local copy of your FizzBuzz repository on your own computer.
 This is called **cloning** the repository.
 You can do this by clicking the green `Code` button in your FizzBuzz repository on GitHub and copying
 the HTTPS URL which you will see. You can copy it by clicking the little 'copy' button with the two rectangles on it.
 
-4. Open IntelliJ. If you already have a project open, close that project. From the main screen, choose
+5. Open IntelliJ. If you already have a project open, close that project. From the main screen, choose
 the "Get From VCS" option.
-5. In the menu that appears, paste the URL. You can either use the default location on your computer to save the project
+6. In the menu that appears, paste the URL. You can either use the default location on your computer to save the project
 or you can choose the directory.
     - Note: if you later make another clone of this repository, it will require you to choose a new directory to save it to,
    since you can't have two projects with the exact same directory.
-6. Click the `Clone` button and IntelliJ will set up your project. At this point, it may require you to set up an
+7. Click the `Clone` button and IntelliJ will set up your project. At this point, it may require you to set up an
 access token to be able to clone the repository from GitHub if you didn't previously do so in the
 software setup instructions from Week 0 on Quercus.
 
